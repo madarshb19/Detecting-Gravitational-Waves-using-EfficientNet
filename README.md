@@ -1,4 +1,4 @@
-# Detecting-Gravitational-Waves-using-EfficientNet
+# Detecting-Gravitational-Waves-using-CNNs
 
 In 2015, two black holes which collided and merged 1.3 billion years ago to form even more massive black holes, sent ripples surging through the very fabric of space in the form of gravitational waves. These GWs were detected by LIGO detectors independently in Livingston and Louisiana.
 
